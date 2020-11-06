@@ -24,7 +24,7 @@ let $ = createSnippetWithJQuery(`
 
 const generateSubmitButton = () => {
   // Solution code here...
-  $('')
+  $('form').append(`<button type="submit'>submit</button`)
 }
 
 /* ------------------------------------------------------------------------------------------------
@@ -41,6 +41,13 @@ For example:
 
 const isNum = (input) => {
   // Solution code here...
+  let num = input;
+  let regex = /\d/;
+  if (regex.test(num)) {
+    return true;
+  } else {
+    return false;
+  }
 };
 
 /* ------------------------------------------------------------------------------------------------
