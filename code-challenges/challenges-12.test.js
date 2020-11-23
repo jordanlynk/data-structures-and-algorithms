@@ -90,6 +90,13 @@ const errands = [
 
 const howManyTreats = (arr) => {
   // Solution code here...
+  let treats = 0;
+  arr.reduce((acc, n, idx) => {
+    n.items.map(item => {
+      if (item.name === 'Treats') { treats += item.quantity }
+    });
+  }, 0);
+  return treats;
   
 };
 
