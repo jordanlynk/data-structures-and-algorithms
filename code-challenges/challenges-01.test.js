@@ -37,7 +37,7 @@ const addValues = (arr, value) => {
 };
 
 const addNumbers = (num, arr, times, callback) => {
-  for (var i = 0; i < times; i++){
+  for (let i = 0; i < times; i++) {
     callback(arr, num);
   }
   return arr;
@@ -61,14 +61,15 @@ The inventory is formatted like this:
 This function should use forEach to populate your grocery list based on the store's inventory. If the item is available, add it to your list. Return the final list.
 ------------------------------------------------------------------------------------------------ */
 
-const createList = (availableItems) => {
+const createList = (items) => {
   // Solution code here...
   let groceryList = [];
-  availableItems.forEach((values) => {
-    if (values[i].available === true){
-      groceryList.push(values[i].name)
+  items.forEach(values => {
+    if (values.available === true) {
+      groceryList.push(values.name)
     }
-  }
+  });
+  return groceryList;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -87,6 +88,14 @@ Return the resulting output array.
 
 const fizzbuzz = (arr) => {
   // Solution code here...
+  let fizzyArray = [];
+  arr.forEach(value => {
+    if (value % 3 === 0 && value % 5 === 0) { fizzyArray.push('Fizz Buzz'); }
+    else if (value % 3 === 0) { fizzyArray.push('Fizz'); }
+    else if (value % 5 === 0) { fizzyArray.push('Buzz'); }
+    else { fizzyArray.push(value); }
+  });
+  return fizzyArray;
 };
 
 /* ------------------------------------------------------------------------------------------------
