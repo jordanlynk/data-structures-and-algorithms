@@ -27,29 +27,32 @@ namespace DataStructures
 
     // METHODS
 
-    public void Print()
+    public string toString()
     {
+      string output = "";
       Node current = Head;
       while (current != null)
       {
         Console.Write($"[{current.Value}] => ");
+        output += $"[{current.Value}] => ";
         current = current.Next;
       }
-
       Console.WriteLine("NULL");
+      output += "NULL";
+      return output;
     }
 
-    public void PrintR(Node node)
+    public string RecursiveToString(Node node)
     {
       if (node == null)
       {
         Console.WriteLine("NULL");
-        return;
+        return "NULL";
       }
 
       Console.Write($"[{node.Value}] => ");
-
-      PrintR(node.Next);
+      RecursiveToString(node.Next);
+      return node.Value.ToString();
 
     }
 
@@ -62,10 +65,22 @@ namespace DataStructures
       Head = node;
     }
 
-    public void Append(int value)
+    // We need to traverse the linked list and compare each value to each argument.
+    // If node value = argument, return true. Otherwise, continue traverse until reaching null and return false.
+   public static bool Includes(int value, LinkedList myList)
     {
-      // Add a node to the end of the list
-    }
+      Node current = myList.Head;
+      while (current != null)
+      {
+        if (current.Value == value)
+        {
+          return true;
+        }
+        current = current.Next;
 
+      }
+      return false;
+
+    }
   }
 }
