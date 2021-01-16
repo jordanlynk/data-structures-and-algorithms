@@ -64,7 +64,7 @@ namespace DataStructures
 
     // We need to traverse the linked list and compare each value to each argument.
     // If node value = argument, return true. Otherwise, continue traverse until reaching null and return false.
-    public bool Includes(int value, LinkedList myList)
+    public static bool Includes(int value, LinkedList myList)
     {
       Node current = myList.Head;
       while (current != null)
@@ -73,6 +73,7 @@ namespace DataStructures
         {
           return true;
         }
+        current = current.Next;
 
       }
       return false;
