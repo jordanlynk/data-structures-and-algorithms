@@ -14,8 +14,8 @@ namespace DataStructures
       myList.Insert(18);
       myList.Insert(22);
 
-      myList.Print();
-      myList.PrintR(myList.Head);
+      myList.toString();
+      myList.RecursiveToString(myList.Head);
     }
   }
 }
