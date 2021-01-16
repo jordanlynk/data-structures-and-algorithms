@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Implementations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Implementations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implementations.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Implementations/1.0.0": {
+      "type": "project",
+      "path": "../../DataStructures/Implementations/Implementations.csproj",
+      "msbuildProject": "../../DataStructures/Implementations/Implementations.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Implementations >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\zanyg\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
+              "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
