@@ -23,6 +23,7 @@ namespace DataStructures
     {
       Node node = new Node(value);
       Head = node;
+      
     }
 
     // METHODS
@@ -82,5 +83,17 @@ namespace DataStructures
       return false;
 
     }
+    // public void Append(int val)
+    // {
+      // Node Current = Head;
+      // if (Current == null)
+      // {
+        // Node node = new Node(val);
+        // node.Next = Head;
+        // Head = node;
+        // Current = Head;
+      //}
+        
+    // }
   }
 }

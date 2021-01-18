@@ -2,6 +2,7 @@ using System;
 using Xunit;
 
 using DataStructures;
+using System.Text;
 
 namespace DataStructureTests
 {
@@ -101,7 +102,15 @@ namespace DataStructureTests
       testList.Insert(490);
       Assert.Equal(testString, testList.toString());
     }
-    
+    public void Appends_To_The_List()
+    {
+      LinkedList list = new LinkedList();
+      list.Insert(1);
+      list.Insert(2);
+      list.Insert(3);
+      list.Insert(4);
+      list.Append(5);
+     
   }
 
  }

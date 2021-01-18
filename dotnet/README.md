@@ -11,3 +11,14 @@
 
 ## API
 - All the 4 methods within the LinkedLists are public and can be accessed as so.
+
+# Append, insertAfter, insertBefore
+- Still within the linked list, we are now appending, inserting before and after.
+
+## Challenge:
+- Create 3 new methods. 
+- Append: create a new node with our given value to the end of the list
+- insertBefore: creates a new node with our given value and looks to place it after the node with the value we are seeking.
+- insertAfter: creates a new node with our given value and places it immeditately after our first value node, then changes the next property.
+
+- ![appendwhiteboard](/Assets/whiteboard01-18.jpg)
