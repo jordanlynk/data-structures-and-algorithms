@@ -21,4 +21,7 @@
 - insertBefore: creates a new node with our given value and looks to place it after the node with the value we are seeking.
 - insertAfter: creates a new node with our given value and places it immeditately after our first value node, then changes the next property.
 
-- ![appendwhiteboard](/Assets/whiteboard01-18.jpg)
+- ![appendwhiteboard](/assets/whiteboard01-18.jpg)
+
+## API
+- Public methods: toString, RecursiveToString, Includes, Insert, Append, InsertAfter, InsertBefore
