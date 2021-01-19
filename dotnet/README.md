@@ -22,9 +22,9 @@
 - insertAfter: creates a new node with our given value and places it immeditately after our first value node, then changes the next property.
 
 
-- ![appendwhiteboard](/assets/whiteboard01-18.jpg)
+- ![appendwhiteboard](../../../../assets/whiteboard01-18.jpg)
 
 ## API
 - Public methods: toString, RecursiveToString, Includes, Insert, Append, InsertAfter, InsertBefore
 
-- ![appendwhiteboard](/../assets/whiteboard01-18.jpg)
+
