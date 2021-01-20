@@ -27,4 +27,18 @@
 ## API
 - Public methods: toString, RecursiveToString, Includes, Insert, Append, InsertAfter, InsertBefore
 
+## K-th From End
+- This introduces us to how creating LinkedList classes work, how to traverse them and how to write unit tests for each method
+
+## Challenge:
+- Write out a method for the LL class which takes in a number (k), as a parameter. Return then node's value that is k from the end of the linked list.
+
+## Approach & Efficiency
+- Set a current node to the head of the list, set a counter variable. Iterate through your linkedlist incrementing the counter each time to find the length of the full ll.
+- Use this value to make an array of that length. Loop over the LL again, assigning each of your elements to the value of each node.
+- Return value of this array at the last index value (k). Traverse the LL by using a while loop. Time: O(n) because it goes through the list every single time. 
+
+## Visual:
+![K-th](./assets/finding-kth.jpg)
+
 
