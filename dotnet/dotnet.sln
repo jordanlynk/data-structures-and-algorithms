@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementations", "DataStructures\Implementations\Implementations.csproj", "{C4665E09-3F00-4ECE-83D6-CCD0E39728CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementations", "DataStructures\Implementations\Implementations.csproj", "{C4665E09-3F00-4ECE-83D6-CCD0E39728CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresTests", "DataStructures\DataStructuresTests\DataStructuresTests.csproj", "{A2D3A29B-7625-45C6-91F4-9E4C86638472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructuresTests", "DataStructures\DataStructuresTests\DataStructuresTests.csproj", "{A2D3A29B-7625-45C6-91F4-9E4C86638472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallengeTests", "CodeChallenges\CodeChallengeTests\CodeChallengeTests.csproj", "{A80D2AD4-90CD-486E-8400-6B549E952D49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeChallengeTests", "CodeChallenges\CodeChallengeTests\CodeChallengeTests.csproj", "{A80D2AD4-90CD-486E-8400-6B549E952D49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "CodeChallenges\LinkedLists\LinkedLists.csproj", "{FF70AF61-9FA3-448E-93FA-C31E9DC63A3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "CodeChallenges\LinkedLists\LinkedLists.csproj", "{FF70AF61-9FA3-448E-93FA-C31E9DC63A3C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStructures", "{B23B8328-471B-4DD0-A533-58B8A55A74A4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeChallenges", "CodeChallenges", "{F12926ED-DF70-45EB-A36D-4314FF783FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLZip", "LLZip\LLZip.csproj", "{57AC7A18-52A6-463D-9370-473157132EEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{FF70AF61-9FA3-448E-93FA-C31E9DC63A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF70AF61-9FA3-448E-93FA-C31E9DC63A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF70AF61-9FA3-448E-93FA-C31E9DC63A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AC7A18-52A6-463D-9370-473157132EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AC7A18-52A6-463D-9370-473157132EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AC7A18-52A6-463D-9370-473157132EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AC7A18-52A6-463D-9370-473157132EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{A2D3A29B-7625-45C6-91F4-9E4C86638472} = {B23B8328-471B-4DD0-A533-58B8A55A74A4}
 		{A80D2AD4-90CD-486E-8400-6B549E952D49} = {F12926ED-DF70-45EB-A36D-4314FF783FA4}
 		{FF70AF61-9FA3-448E-93FA-C31E9DC63A3C} = {F12926ED-DF70-45EB-A36D-4314FF783FA4}
+		{57AC7A18-52A6-463D-9370-473157132EEC} = {F12926ED-DF70-45EB-A36D-4314FF783FA4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C18A6F26-58AD-4979-8151-8F1F686A211C}
