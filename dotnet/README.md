@@ -59,5 +59,5 @@
 - return "ListA"
 
 ## Visual
-![LL-Zip](assets/ziplist.jpg)
+![LL-Zip](/assets/ziplist.jpg)
 
