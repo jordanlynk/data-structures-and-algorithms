@@ -8,7 +8,7 @@ namespace DataStructures
   {
     public Node<T> top { get; set; }
 
-    public bool Peek()
+    public bool isEmpty()
     {
       return top != null;
     }
@@ -22,17 +22,30 @@ namespace DataStructures
 
     public Node<T> Pop()
     {
-      // find the top of the stack
-      Node<T> currentTop = top;
-      // set the next node down to be the new top one
-      top = currentTop.Next;
-      // return what used to be on the top
-      return currentTop;
+      try
+      {
+        // find the top of the stack
+        Node<T> currentTop = top;
+        // set the next node down to be the new top one
+        top = currentTop.Next;
+        return top;
+      }
+      catch
+      {
+        return null;
+      }
     }
 
-    public bool isEmpty()
+    public Node<T> Peek()
     {
-
+      try
+      {
+        return top;
+      }
+      catch 
+      {
+        return null;
+      }
     }
   }
 }

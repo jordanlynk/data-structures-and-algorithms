@@ -17,22 +17,7 @@ namespace DataStructures
 
       myList.toString();
       myList.RecursiveToString(myList.Head);
-      LordRings();
     }
 
-    static void LordRings()
-    {
-      Stack<string> myCharacters = new Stack<string>();
-      myCharacters.Push("Galadriel");
-      myCharacters.Push("Frodo");
-      myCharacters.Push("Shadowfax");
-      myCharacters.Push("Gandalf");
-
-      while (myCharacters.Peek())
-      {
-        Node<String> character = myCharacters.Pop();
-        Console.WriteLine(character.Value);
-      }
-    }
   }
 }

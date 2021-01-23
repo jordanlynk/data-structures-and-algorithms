@@ -100,17 +100,16 @@ namespace DataStructureTests
       testList.Insert(490);
       Assert.Equal(testString, testList.toString());
     }
-    [Fact]
-    public void Appends_To_The_List()
-    {
-      LinkedList<int> list = new LinkedList<int>();
-      list.Insert(1);
-      list.Insert(2);
-      list.Insert(3);
-      list.Insert(4);
-      // list.Append(5);
+    // [Fact]
+    // public void Appends_To_The_List()
+    // {
+    // LinkedList<int> list = new LinkedList<int>();
+    // list.Insert(1);
+    // list.Insert(2);
+    // list.Insert(3);
+    // list.Insert(4);
+    // list.Append(5);
 
-    }
 
   }
 }
