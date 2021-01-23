@@ -41,4 +41,27 @@
 ## Visual:
 ![K-th](./assets/finding-kth.jpg)
 
+## Implementation: Stacks and Queues
+
+## Challenge:
+- Create a stack that has one property and 4 methods combined. Test to confirm 
+- Create a queue that has one property and 4 methods. Test to confirm
+ 
+## Approach & Efficiency:
+- Create a stack class with a top property. Assign an empty value to top when the stack is created.
+- Create a method called push which will take any values to the top with an O(1) time performance.
+- Create a method called pop that does not take any argument, removes node from the top and returns value
+- Cretae a method called peek that does NOT take an argument and returns the value of the node located on top.
+- Create a method isEmpty that takes no arguments, returns bool.
+- Create a queue class with property of front.
+- Create a method called enqueue that takes any value as argument, adds a new node w/ value to the back of the queue w/ O(1) performance.
+- Create a method called dequeue that does NOT take any argument, removes node from the front of the queue and returns node value.
+- Create a method called peek that does NOT take any arguments and returns value of node located in front of the queue, exception handle should be raised if empty
+- Create a method isEmpty that takes no arguments and returns bool, indicating empty or not empty queue
+
+## API:
+- Public Methods:
+- Pop(), Push(), IsEmpty(), Peek(), Enqueue(), Dequeue()
+Public Classes:
+- Queue, Stack
 

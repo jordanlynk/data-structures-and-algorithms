@@ -7,10 +7,11 @@ namespace DataStructures
 {
   public class Queue<T>
   {
-    public static Node<T> front { get; set; }
+    public Node<T> front { get; set; }
+    public Node<T> rear { get; set; }
 
     // This method will take any value as an argument, adds a new node with that value to the back
-    public static void Enqueue(T value)
+    public void Enqueue(T value)
     {
       Node<T> node = new Node<T>(value);
       Node<T> currentCounter = front;
@@ -25,7 +26,7 @@ namespace DataStructures
         currentCounter = currentCounter.Next;
       }
     }
-    public static T Dequeue()
+    public T Dequeue()
     {
       try
       {
@@ -38,7 +39,7 @@ namespace DataStructures
       }
 
     }
-    public static T Peek()
+    public T Peek()
     {
       try
       {
@@ -49,7 +50,7 @@ namespace DataStructures
         throw nre;
       }
     }
-    public static bool isEmpty()
+    public bool isEmpty()
     {
       return front != null;
     }
