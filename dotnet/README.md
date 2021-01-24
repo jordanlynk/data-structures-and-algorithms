@@ -41,4 +41,23 @@
 ## Visual:
 ![K-th](./assets/finding-kth.jpg)
 
+## LL-Zip List:
+
+## Challenge:
+- Write out a function that takes in 2 LL, and "zips" them together so that the output is 1 LL changing both LL values in alternating order.
+
+## Approach & Efficiency:
+- Create variables for 2 linked lists (to keep track of)
+- Iterate through while loop that works when CurrentA is not equal to null 
+- If currentB.Next != null, set temp to currentA.next
+- set currentA.next to currentB
+- set currentA.next.next to temp
+- then increment both currents
+- instantiate through second while loop that works when currentB is not equal to null
+- again, set currentA == currentB
+- Increment both currents
+- return "ListA"
+
+## Visual
+![LL-Zip](./assets/ziplist.JPG)
 
