@@ -1,4 +1,4 @@
-# Singly Linked List
+ingly Linked List
 - This introduces how to create LL classes, how to traverse them and how to write unit tests for their methods.
 
 ## Challenge
@@ -41,23 +41,27 @@
 ## Visual:
 ![K-th](./assets/finding-kth.jpg)
 
-## LL-Zip List:
+## Implementation: Stacks and Queues
 
 ## Challenge:
-- Write out a function that takes in 2 LL, and "zips" them together so that the output is 1 LL changing both LL values in alternating order.
-
+- Create a stack that has one property and 4 methods combined. Test to confirm 
+- Create a queue that has one property and 4 methods. Test to confirm
+ 
 ## Approach & Efficiency:
-- Create variables for 2 linked lists (to keep track of)
-- Iterate through while loop that works when CurrentA is not equal to null 
-- If currentB.Next != null, set temp to currentA.next
-- set currentA.next to currentB
-- set currentA.next.next to temp
-- then increment both currents
-- instantiate through second while loop that works when currentB is not equal to null
-- again, set currentA == currentB
-- Increment both currents
-- return "ListA"
+- Create a stack class with a top property. Assign an empty value to top when the stack is created.
+- Create a method called push which will take any values to the top with an O(1) time performance.
+- Create a method called pop that does not take any argument, removes node from the top and returns value
+- Cretae a method called peek that does NOT take an argument and returns the value of the node located on top.
+- Create a method isEmpty that takes no arguments, returns bool.
+- Create a queue class with property of front.
+- Create a method called enqueue that takes any value as argument, adds a new node w/ value to the back of the queue w/ O(1) performance.
+- Create a method called dequeue that does NOT take any argument, removes node from the front of the queue and returns node value.
+- Create a method called peek that does NOT take any arguments and returns value of node located in front of the queue, exception handle should be raised if empty
+- Create a method isEmpty that takes no arguments and returns bool, indicating empty or not empty queue
 
-## Visual
-![LL-Zip](./assets/ziplist.JPG)
+## API:
+- Public Methods:
+- Pop(), Push(), IsEmpty(), Peek(), Enqueue(), Dequeue()
+Public Classes:
+- Queue, Stack
 

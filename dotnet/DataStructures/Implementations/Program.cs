@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace DataStructures
 {
@@ -6,7 +7,7 @@ namespace DataStructures
   {
     static void Main(string[] args)
     {
-      LinkedList myList = new LinkedList(5);
+      LinkedList<int> myList = new LinkedList<int>(5);
       myList.Insert(3);
       myList.Insert(6);
       myList.Insert(9);
@@ -17,5 +18,6 @@ namespace DataStructures
       myList.toString();
       myList.RecursiveToString(myList.Head);
     }
+
   }
 }
