@@ -1,4 +1,4 @@
-# Singly Linked List
+ingly Linked List
 - This introduces how to create LL classes, how to traverse them and how to write unit tests for their methods.
 
 ## Challenge
