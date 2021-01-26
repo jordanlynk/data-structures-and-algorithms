@@ -61,3 +61,17 @@
 ## Visual
 ![LL-Zip](./assets/ziplist.JPG)
 
+## Queues with Stacks
+
+## Challenge:
+- Create a "PseudoQueue" class that will utilize two stacks that will then iterate through, creating enqueuing.
+
+## Approach & Efficiency:
+- We iterate all the way through "stack one", the original stack. Popping each node into stack two (dequeued stack)
+- Get the remaining node left in Stack One.
+- Reorder the nodes by using Pop() for each one. Go through each node in stack two like this and place back into stack one through a for loop?
+- Return the LAST node.
+
+## Visual:
+![Queues in Stacks](./assets/queuesinstacks.jpg)
+
