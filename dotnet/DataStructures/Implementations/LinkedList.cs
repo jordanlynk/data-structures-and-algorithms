@@ -4,9 +4,9 @@ using System.Text;
 
 namespace DataStructures
 {
-  public class LinkedList
+  public class LinkedList<T>
   {
-    public Node Head { get; set; }
+    public Node<T> Head { get; set; }
 
     /// <summary>
     /// Plain, Empty Linked List
@@ -19,9 +19,9 @@ namespace DataStructures
     /// Usage: LinkedList myList = new LinkedList(4);
     /// </summary>
     /// <param name="value"></param>
-    public LinkedList(int value)
+    public LinkedList(T value)
     {
-      Node node = new Node(value);
+      Node<T> node = new Node<T>(value);
       Head = node;
       
     }
@@ -31,7 +31,7 @@ namespace DataStructures
     public string toString()
     {
       string output = "";
-      Node current = Head;
+      Node<T> current = Head;
       while (current != null)
       {
         Console.Write($"[{current.Value}] => ");
@@ -43,7 +43,7 @@ namespace DataStructures
       return output;
     }
 
-    public string RecursiveToString(Node node)
+    public string RecursiveToString(Node<T> node)
     {
       if (node == null)
       {
@@ -57,23 +57,23 @@ namespace DataStructures
 
     }
 
-    public void Insert(int value)
+    public void Insert(T value)
     {
       // If we have a head ... do this
       // If not, make the node, and make it the head.
-      Node node = new Node(value);
+      Node<T> node = new Node<T>( value);
       node.Next = Head; // might be unnecessary if we don't have a head
       Head = node;
     }
 
     // We need to traverse the linked list and compare each value to each argument.
     // If node value = argument, return true. Otherwise, continue traverse until reaching null and return false.
-   public static bool Includes(int value, LinkedList myList)
+   public static bool Includes(T value, LinkedList<T> myList)
     {
-      Node current = myList.Head;
+      Node<T> current = myList.Head;
       while (current != null)
       {
-        if (current.Value == value)
+        if (current.Value.Equals(value))
         {
           return true;
         }
