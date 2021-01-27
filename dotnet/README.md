@@ -79,3 +79,16 @@ Public Classes:
 ## Visual:
 ![Queues in Stacks](./assets/queuesinstacks.jpg)
 
+## Fifo Animal Shelter
+
+## Challenge:
+- Create an animal shelter that can take in dog and cat objects and return the specified/preferred types input during dequeuing.
+
+## Approach & Efficiency:
+- Set up a temp that is equal to queue
+- Iterate through nodes while temp current != null
+- Check if each node is of the preferred species (dog or cat) by dequeuing and then enqueue our front entries to see value/object. Then we do that all the way through until everything is done.
+- Then reset all of the nodes to their original state by iterating through until our front node equals the temp. 
+## Visual
+![Fifo](./assets/fifowithanimal.jpg)
+
