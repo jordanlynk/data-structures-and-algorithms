@@ -92,3 +92,24 @@ Public Classes:
 ## Visual
 ![Fifo](./assets/fifowithanimal.jpg)
 
+## Multi Bracket Validation
+
+# Challenge:
+- Create a method that verifies if brackets have a matching beginning and end in a string
+
+## Approach & Efficiency:
+- Create a temporary stack
+- Then create a temporary var (current)
+- Transform our string into an object character
+- Traverse through the whole string
+- if the current is an opening bracket push to the temporary stack 
+- Then look if the current character is a closing bracket, push to the top of the stack
+- If it does match, Pop() off the stack.
+- If we traverse through the whole stack and it is empty, then we return true
+- If it does not match, then continue until string is empty or everything has been pushed out.
+- Big O: 
+- Time: O(n)
+- Space: O(n)
+
+## Visual
+![MultiBracket](./assets/01-27-211.png)
