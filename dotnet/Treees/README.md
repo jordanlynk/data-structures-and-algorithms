@@ -56,6 +56,7 @@
 ## Visual:
 ![breadthfirst](./assets/breadthfirst.png)
 
+
 ## FizzBuzzTree
 
 ## Problem Domain:
@@ -67,3 +68,4 @@
 
 ## Visual:
 ![fizzbuzz](../assets/fizzbuzzz.png)
+
