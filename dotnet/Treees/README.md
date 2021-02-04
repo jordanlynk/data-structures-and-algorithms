@@ -54,7 +54,7 @@
 - Space: O(1)
 
 ## Visual:
-![breadthfirst](./assets/breadthfirst.png)
+![breadthfirst](../assets/breadthfirst.png)
 
 ## FizzBuzzTree
 
