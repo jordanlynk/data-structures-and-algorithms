@@ -51,6 +51,17 @@ namespace Treees
       return values;
     }
 
+    public T FindMax(T maxValue, Node<T> currentNode)
+    {
+      if (currentNode == null) return maxValue;
+      Console.WriteLine($"currentNode: {currentNode.Value}\tmaxValue: {maxValue}\tCompare: {maxValue.CompareTo(currentNode.Value)}");
+      if (maxValue.CompareTo(currentNode.Value) < 0) maxValue = currentNode.Value;
+
+      if (currentNode.Left != null) FindMax(maxValue, currentNode.Left);
+      if (currentNode != null) FindMax(maxValue, currentNode.Right);
+      return maxValue;
+    }
+
     public static List<T> BreadthTraversal(BinaryTree<T> tree)
     {
       
