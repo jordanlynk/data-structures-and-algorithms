@@ -1655,6 +1655,7 @@
         "dependencies": {
           "Implementations": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.7.1",
+          "Trees": "1.0.0",
           "xunit": "2.4.1"
         },
         "compile": {
@@ -1685,6 +1686,15 @@
         },
         "runtime": {
           "bin/placeholder/LinkedLists.dll": {}
+        }
+      },
+      "Trees/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Trees.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Trees.dll": {}
         }
       }
     }
@@ -5664,6 +5674,11 @@
       "type": "project",
       "path": "../LinkedLists/LinkedLists.csproj",
       "msbuildProject": "../LinkedLists/LinkedLists.csproj"
+    },
+    "Trees/1.0.0": {
+      "type": "project",
+      "path": "../../Treees/Trees.csproj",
+      "msbuildProject": "../../Treees/Trees.csproj"
     }
   },
   "projectFileDependencyGroups": {

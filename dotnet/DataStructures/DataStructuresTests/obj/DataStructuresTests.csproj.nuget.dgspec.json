@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
                 "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
+              },
+              "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
+                "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
               }
             }
           }
@@ -136,6 +139,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj",
+        "projectName": "Trees",
+        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
