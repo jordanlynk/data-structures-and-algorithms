@@ -43,3 +43,26 @@
 
 ## Visual
 ![findmax](./assets/findmaxvaluetree.jpg)
+
+## Breadth First:
+
+## Problem Domain:
+- Write an instance method that takes an object instance of a binary tree as it's unique input, utilizes breadth first traversal  and returns the values of a Binary Tree.
+
+## Big O:
+- Time: O(h)
+- Space: O(1)
+
+## Visual:
+![breadthfirst](./assets/breadthfirst.png)
+
+## FizzBuzzTree
+
+## Problem Domain:
+- Write a function FizzBuzzTree() that takes in a k-ary tree as it's argument. Create a new tree that will take in the values of each node.
+
+## Big O:
+- Time: O(n)
+- Space: O(n)
+
+![FizzBuzz](../assets/fizzbuzzz.png)

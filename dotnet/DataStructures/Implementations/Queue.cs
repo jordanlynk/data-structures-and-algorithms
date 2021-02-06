@@ -7,52 +7,34 @@ namespace DataStructures
 {
   public class Queue<T>
   {
-    public Node<T> front { get; set; }
-    public Node<T> rear { get; set; }
+    public Node<T> Front { get; set; }
+    public Node<T> Rear { get; set; }
 
     // This method will take any value as an argument, adds a new node with that value to the back
     public void Enqueue(T value)
     {
-      Node<T> node = new Node<T>(value);
-      Node<T> currentCounter = front;
-
-      while (currentCounter.Next != null)
-      {
-        if (currentCounter.Next == null)
-        {
-          currentCounter.Next = node;
-          node.Next = null;
-        }
-        currentCounter = currentCounter.Next;
-      }
+      Node<T> newNode = new Node<T>(value);
+      if (Front == null) { Front = newNode; Rear = newNode; }
+      Rear.Next = newNode;
+      Rear = newNode;
+      
     }
-    public T Dequeue()
+    public Node<T> Dequeue()
     {
-      try
-      {
-        front.Next = null;
-        return front.Value;
-      }
-      catch (NullReferenceException nre)
-      {
-        throw nre;
-      }
+      Node<T> tempNode = Front.Next;
+      Front = tempNode;
+      return tempNode;
 
     }
-    public T Peek()
+    public Node<T> Peek()
     {
-      try
-      {
-        return front.Value;
-      }
-      catch (NullReferenceException nre)
-      {
-        throw nre;
-      }
+      if (Front == null) throw new NullReferenceException();
+      return Front;
     }
     public bool isEmpty()
     {
-      return front != null;
+      if (Front != null) return false;
+      return true;
     }
 
   }
