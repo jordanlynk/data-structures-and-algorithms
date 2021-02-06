@@ -54,18 +54,4 @@
 - Space: O(1)
 
 ## Visual:
-![breadthfirst](../assets/breadthfirst.png)
-
-
-## FizzBuzzTree
-
-## Problem Domain:
-- Write a function FizzBuzzTree() that takes in a k-ary tree as it's argument. Create a new tree that will take in the values of each node.
-
-## Big O:
-- Time: O(n)
-- Space: O(n)
-
-## Visual:
-![fizzbuzz](../assets/fizzbuzzz.png)
-
+![breadthfirst](./assets/breadthfirst.png)
