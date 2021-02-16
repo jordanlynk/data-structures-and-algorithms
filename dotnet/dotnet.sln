@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LLZip", "LLZip\LLZip.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Treees\Trees.csproj", "{4B6DFCC6-7A16-4D02-AA66-09BABE3DFB88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{5FE180E3-9108-4F8B-88FA-8EDE6359BFEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{4B6DFCC6-7A16-4D02-AA66-09BABE3DFB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B6DFCC6-7A16-4D02-AA66-09BABE3DFB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B6DFCC6-7A16-4D02-AA66-09BABE3DFB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE180E3-9108-4F8B-88FA-8EDE6359BFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE180E3-9108-4F8B-88FA-8EDE6359BFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE180E3-9108-4F8B-88FA-8EDE6359BFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE180E3-9108-4F8B-88FA-8EDE6359BFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{FF70AF61-9FA3-448E-93FA-C31E9DC63A3C} = {F12926ED-DF70-45EB-A36D-4314FF783FA4}
 		{57AC7A18-52A6-463D-9370-473157132EEC} = {F12926ED-DF70-45EB-A36D-4314FF783FA4}
 		{4B6DFCC6-7A16-4D02-AA66-09BABE3DFB88} = {B23B8328-471B-4DD0-A533-58B8A55A74A4}
+		{5FE180E3-9108-4F8B-88FA-8EDE6359BFEA} = {F12926ED-DF70-45EB-A36D-4314FF783FA4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C18A6F26-58AD-4979-8151-8F1F686A211C}

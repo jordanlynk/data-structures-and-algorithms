@@ -1675,6 +1675,16 @@
           "bin/placeholder/Implementations.dll": {}
         }
       },
+      "InsertionSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InsertionSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InsertionSort.dll": {}
+        }
+      },
       "LinkedLists/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5670,6 +5680,11 @@
       "path": "../../DataStructures/Implementations/Implementations.csproj",
       "msbuildProject": "../../DataStructures/Implementations/Implementations.csproj"
     },
+    "InsertionSort/1.0.0": {
+      "type": "project",
+      "path": "../../InsertionSort/InsertionSort.csproj",
+      "msbuildProject": "../../InsertionSort/InsertionSort.csproj"
+    },
     "LinkedLists/1.0.0": {
       "type": "project",
       "path": "../LinkedLists/LinkedLists.csproj",
@@ -5684,6 +5699,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "DataStructuresTests >= 1.0.0",
+      "InsertionSort >= 1.0.0",
       "LinkedLists >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "coverlet.collector >= 1.3.0",
@@ -5723,6 +5739,9 @@
             },
             "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj": {
               "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj"
+            },
+            "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj": {
+              "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj"
             }
           }
         }

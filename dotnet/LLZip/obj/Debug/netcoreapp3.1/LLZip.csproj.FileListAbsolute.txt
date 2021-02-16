@@ -1,0 +1,13 @@
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\bin\Debug\netcoreapp3.1\LLZip.exe
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\bin\Debug\netcoreapp3.1\LLZip.deps.json
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\bin\Debug\netcoreapp3.1\LLZip.runtimeconfig.json
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\bin\Debug\netcoreapp3.1\LLZip.runtimeconfig.dev.json
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\bin\Debug\netcoreapp3.1\LLZip.dll
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\bin\Debug\netcoreapp3.1\LLZip.pdb
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\obj\Debug\netcoreapp3.1\LLZip.csprojAssemblyReference.cache
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\obj\Debug\netcoreapp3.1\LLZip.AssemblyInfoInputs.cache
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\obj\Debug\netcoreapp3.1\LLZip.AssemblyInfo.cs
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\obj\Debug\netcoreapp3.1\LLZip.csproj.CoreCompileInputs.cache
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\obj\Debug\netcoreapp3.1\LLZip.dll
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\obj\Debug\netcoreapp3.1\LLZip.pdb
+C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\LLZip\obj\Debug\netcoreapp3.1\LLZip.genruntimeconfig.cache
