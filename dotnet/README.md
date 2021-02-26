@@ -113,3 +113,35 @@ Public Classes:
 
 ## Visual
 ![MultiBracket](./assets/01-27-211.png)
+
+# Repeated Word
+
+## Challenge:
+- Taking a string as input, return the first word that is repeated within the string.
+
+## Approach & Efficiency:
+
+- Create a temporary "tracker" in the form of a list?
+- Remove any punctuation from within the string and then split it 
+- Then loop through the string array, to check if the tracker list contains any words, return the word if so.
+- If not, then return the word to the tracker list
+- After full loop through the tracker list, return an empty string with no repeated words
+
+## Visual
+![RepeatedWord](./assets/repeated-word.png)
+
+# Left Join:
+
+## Challenge:
+- Given that there are two hash maps, create a left join that will return some sort of structure with the key and value from the left hash map. Append the value if the key appears in the other hash map.
+
+## Approach & Efficiency:
+- First start by creating an array with rows equal to length.
+- Set a temporary list to store values 
+- Set the length of the array to 1
+- Check each item in array(1) and then begin by setting the first 2 sets of values in each position. This should align with the result to each key and value in array (1)
+- Check IF array(2) contains a key from array(1), insert said value from array (2) into new list 
+- Return the result (in this case the temporary list we have created with values matching accordingly when we iterate over our arrays) 
+
+# Visual:
+![LeftJoin](./assets/leftjoin.png)
