@@ -113,3 +113,20 @@ Public Classes:
 
 ## Visual
 ![MultiBracket](./assets/01-27-211.png)
+
+# Repeated Word
+
+## Challenge:
+- Taking a string as input, return the first word that is repeated within the string.
+
+## Approach & Efficiency:
+
+- Create a temporary "tracker" in the form of a list?
+- Remove any punctuation from within the string and then split it 
+- Then loop through the string array, to check if the tracker list contains any words, return the word if so.
+- If not, then return the word to the tracker list
+- After full loop through the tracker list, return an empty string with no repeated words
+
+## Visual
+![RepeatedWord](./assets/repeated-word.png)
+
