@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\QuickSort\\QuickSort.csproj",
+      "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\QuickSort\\QuickSort.csproj",
       "projectName": "QuickSort",
-      "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\QuickSort\\QuickSort.csproj",
+      "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\QuickSort\\QuickSort.csproj",
       "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\QuickSort\\obj\\",
+      "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\QuickSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RU6WI4HQt34EYNpGrm/YoBXHyW65OZYv0TD+aweWMXs/YuAqLBqnqX1xTzl9YVoKnV3/tW3bvdMNoTa6GXko7A==",
+  "dgSpecHash": "bOYVh0VtT4eo1+GhIJZpr3TXybjuWy7zvnCksXx66NBiDOGmw9/xmQz7obaj6r2d3i9CqhRxXGk1r+7/DgUezg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj",
+  "projectFilePath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zanyg\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\zanyg\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

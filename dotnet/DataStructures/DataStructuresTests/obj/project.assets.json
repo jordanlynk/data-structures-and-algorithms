@@ -5658,11 +5658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
+      "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
       "projectName": "DataStructuresTests",
-      "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
+      "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
       "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\obj\\",
+      "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5679,11 +5679,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
-              "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
+            "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
+              "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
             },
-            "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
-              "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
+            "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
+              "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
             }
           }
         }

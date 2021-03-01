@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
+      "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
       "projectName": "InsertionSort",
-      "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
+      "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
       "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\obj\\",
+      "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
