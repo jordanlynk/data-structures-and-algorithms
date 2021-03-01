@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lVBoJnfR6N8ugHDVX90ppwiLapDx8fw8pMbYgopGGbL50W+HB3uZmyKnoOmL+7Gyq5QA/lYXEkyoymzQIw2FPw==",
+  "dgSpecHash": "Zd1WSFQHn8Fi9HiwbnRox4gL0A05h7n01qbjIfCj5ic3oAa+YibVKV6rKmaOILin1AnNH7xLH99lqrO5omgO0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj",
+  "projectFilePath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

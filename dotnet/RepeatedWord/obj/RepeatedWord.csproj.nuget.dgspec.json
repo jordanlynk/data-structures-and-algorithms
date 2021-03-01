@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj": {}
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj",
         "projectName": "RepeatedWord",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\RepeatedWord.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\RepeatedWord\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",

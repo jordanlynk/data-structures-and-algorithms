@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xtk5UFbTJrOahmVGzfuP5WN5xzxaW1Zd/z+CrREOKPzT1LJXWDj7O/0SlXxVDYizwwYYc5fI1VTbq1xldUW8uQ==",
+  "dgSpecHash": "XszDwn8u/mjCl3kgla3HaQpxKVlPn8iwbJkBg8uf5SVOFwCwjHzKR1Op5E+4buNKx8/j/TtJeaJmBb0HedH7bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
+  "projectFilePath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

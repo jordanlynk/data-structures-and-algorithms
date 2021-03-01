@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj": {}
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj",
         "projectName": "CodeChallengeTests",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\CodeChallengeTests.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\CodeChallengeTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj": {
-                "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj"
+              "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj": {
+                "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj"
               },
-              "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj": {
-                "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj"
+              "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj": {
+                "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj"
               },
-              "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj": {
-                "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj"
+              "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj": {
+                "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj",
         "projectName": "LinkedLists",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\LinkedLists.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\CodeChallenges\\LinkedLists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,8 +114,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
-                "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
+              "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
+                "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
         "projectName": "DataStructuresTests",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\DataStructuresTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,11 +172,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
-                "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
+              "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
+                "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj"
               },
-              "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
-                "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
+              "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
+                "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
         "projectName": "Implementations",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -285,14 +285,14 @@
         }
       }
     },
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
         "projectName": "InsertionSort",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\InsertionSort.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\InsertionSort\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\InsertionSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -339,11 +339,11 @@
         }
       }
     },
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj",
         "projectName": "Trees",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\Treees\\Trees.csproj"
       },
       "frameworks": {
         "net472": {}

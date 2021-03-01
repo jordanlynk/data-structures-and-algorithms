@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {}
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
         "projectName": "Implementations",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\Implementations.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\DataStructures\\Implementations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",

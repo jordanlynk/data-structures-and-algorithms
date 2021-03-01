@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj": {}
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj": {
+    "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj",
+        "projectUniqueName": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj",
         "projectName": "LLZip",
-        "projectPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj",
+        "projectPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\LLZip\\LLZip.csproj",
         "packagesPath": "C:\\Users\\zanyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanyg\\Documents\\codefellows\\data-structures-and-algorithms\\dotnet\\LLZip\\obj\\",
+        "outputPath": "C:\\Users\\zanyg\\Source\\Repos\\data-structures-and-algorithms\\dotnet\\LLZip\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
