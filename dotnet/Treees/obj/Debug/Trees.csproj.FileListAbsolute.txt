@@ -4,3 +4,9 @@ C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\Treee
 C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\Treees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
 C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\Treees\obj\Debug\Treees.dll
 C:\Users\zanyg\Documents\codefellows\data-structures-and-algorithms\dotnet\Treees\obj\Debug\Treees.pdb
+C:\Users\zanyg\Source\Repos\data-structures-and-algorithms\dotnet\Treees\bin\Debug\Treees.dll
+C:\Users\zanyg\Source\Repos\data-structures-and-algorithms\dotnet\Treees\bin\Debug\Treees.pdb
+C:\Users\zanyg\Source\Repos\data-structures-and-algorithms\dotnet\Treees\obj\Debug\Trees.csprojAssemblyReference.cache
+C:\Users\zanyg\Source\Repos\data-structures-and-algorithms\dotnet\Treees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\zanyg\Source\Repos\data-structures-and-algorithms\dotnet\Treees\obj\Debug\Treees.dll
+C:\Users\zanyg\Source\Repos\data-structures-and-algorithms\dotnet\Treees\obj\Debug\Treees.pdb
